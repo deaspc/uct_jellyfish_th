@@ -1,0 +1,57 @@
+p1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: clamp(48px, 2.5vw, 64px);
+  color: #ffffff;
+  text-align: center;
+  font-weight: 600;
+}
+
+p2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: clamp(24px, 2.5vw, 32px);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+p3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: clamp(14px, 2.5vw, 18px);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* button */
+/* CSS */
+#button1,
+#button2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 1 1 auto;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  padding: 20px 40px 20px 40px;
+  text-align: center;
+}
+
+#button1:hover {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+}
+
+#button2:hover {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+}
+
+#button1 {
+  margin-right: 50px;
+}
