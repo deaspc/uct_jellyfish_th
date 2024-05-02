@@ -12,7 +12,7 @@ const tl17 = gsap.timeline({
 
 // random
 
-const imageArray = ["asset/app.png", "asset/bottle.png", "asset/lab1.png"];
+const imageArray = ["asset/cer1.png", "asset/cer2.png", "asset/cer3.png"];
 
 const image = document.getElementById("random");
 const button = document.getElementById("button3");
